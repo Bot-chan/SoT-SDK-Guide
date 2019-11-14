@@ -1,6 +1,5 @@
 
 # Engine Drawing
-* [Back to main page](README.md)
 * [Draw with UCanvas](#draw-with-ucanvas)
   * [Draw a text]()
   * [Draw a line]()

@@ -1,0 +1,19 @@
+{
+    "Name" : "Sea of Thieves SDK Guide",
+    "Source" : ".",
+    "Destination" : "..\\",
+	"IncludeSource": "Includes",
+    "Theme" : "LLBLGenPro",
+    "Footer" : "",
+	"ConvertLocalLinks": "true",
+	"MaxLevelInToC": 5,
+    "Pages" : 
+    {
+        "__index" : "index.md",
+        "Engine Drawing" : "enginedrawing.md",
+        "Actors and their usage" : "actors.md",
+        "Functions and their usage" : "functions.md",
+        "Features" : "features.md",
+        "Credits" : "credits.md"
+    }
+}
